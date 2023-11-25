@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{5A85F31E-485F-4DF4-9D65-F3531E55754C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Iteration1_IdentifiableObject/EmptyClass.cs">
+    <Files>
+      <File FileName="Iteration1_IdentifiableObject/UnitTest1.cs" />
+      <File FileName="Iteration1_IdentifiableObject/GlobalUsings.cs" />
+      <File FileName="Iteration1_IdentifiableObject/Identifiableobject.cs" />
+      <File FileName="Iteration1_IdentifiableObject/EmptyClass.cs" Line="21" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iteration1_IdentifiableObject" expanded="True">
+            <Node name="Iteration1_IdentifiableObject" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Iteration1__IdentifiableObject PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
